@@ -1,0 +1,28 @@
+                                        Analysis of data from Py_City_Schools
+ Written by Sultana Khan
+ Date: 21/02/2023
+
+With regard to the District Summary data, the initial overview shows us there are 15 schools with a total student count across all schools equal to 39,170 students. 
+
+*Across all 15 schools we have calulcated the following:
+- Average math score = 79%
+- Average reading score = 82%
+- percentage passing maths = 75%
+- percentage passing reading = 86%
+- percentage passing both math and reading = 65%
+
+
+Looking more closely at the School Summary data, there is a clear demarcation between the 'Top 5' and 'Bottom 5' performing schools with respect to 'School Type'. The Top 5 all being 'Charter' and the Bottom 5 all being 'District'. 
+
+Another noticeable trend is that the 'Total Students' count is significantly lower in the Charter schools than the District schools (average number of students across the Top 5 being 1641.2 and 3852.2 in the Bottom 5 schools), which leads to the conclusion that smaller schools are performing better in math and reading than the larger sized schools. However, it should be noted that when looking at the 'School Size Summary' the medium sized schools (1000-2000 students) had the highest overall percentage pass in both math and reading.
+
+Although the budget per student is higher in the 'Distict' schools in comparison to the 'Charter' schools, this has not resulted in higher scores across all categories mentioned above*. The only score which is of a similar range is the 'Average reading score' but in all other categories, the District scores are significantly lower. 
+
+When looking at 'Spending Ranges (per student)' it is clear the category of school falling under '<$585 per student' performs the best, having the highest overall percentage of students passing (i.e. both math and reading) at above 90%.  
+
+By the 'Twelfth Grade' the scores are higher in the reading than in math.
+
+In conclusion the 'Average Reading Score' across the top 5 and bottom 5 schools is most similar in range. Thereafter the difference in scores for 'Average Math Score', '% Passing Math', '% Passing Reading', and '% Overall Passing' is markedly lower for the 'District' schools. We can see that although schools with fewer students perform better, medium sized schools performed nearly as well as the small school in all areas of math and reading. It would aslo be fair to say that a higher budget does not directly correlate to a greater success in outcome for a student, in fact the opposite appears to be the case. 
+
+
+
